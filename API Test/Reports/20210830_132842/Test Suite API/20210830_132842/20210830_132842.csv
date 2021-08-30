@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite API,,,,2021-08-30 13:29:02,2021-08-30 13:29:19,16.297s,PASSED
+,,,,,,,
+Test Cases/Verify Test,,,,2021-08-30 13:29:03,2021-08-30 13:29:19,15.374s,PASSED
+"sendRequestAndVerify(findTestObject(""Create User""))",,,,2021-08-30 13:29:04,2021-08-30 13:29:11,6.860s,PASSED
+"sendRequestAndVerify(findTestObject(""Get User""))",,,,2021-08-30 13:29:11,2021-08-30 13:29:15,3.583s,PASSED
+"sendRequestAndVerify(findTestObject(""Update User""))",,,,2021-08-30 13:29:15,2021-08-30 13:29:17,2.415s,PASSED
+"sendRequestAndVerify(findTestObject(""Delete User""))",,,,2021-08-30 13:29:17,2021-08-30 13:29:19,1.559s,PASSED
