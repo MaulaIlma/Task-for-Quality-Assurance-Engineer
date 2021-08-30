@@ -12,8 +12,8 @@ In test case folder there are positive test and negative test
 Web Sign Up with Valid Data
 
 **Negative Test for Sign Up**
-Web Sign UP with Registered Email
-Web Sign Up with Empty Email
+//Web Sign UP with Registered Email
+//Web Sign Up with Empty Email
 Web Sign Up with Not Select State On Create Account Form
 Web Sign Up with Empty Poscode On Create Account Form
 Web Sign Up with Empty Password On Create Account Form
