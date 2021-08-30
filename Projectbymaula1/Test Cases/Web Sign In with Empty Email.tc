@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Web Sign In with Empty Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c118d800-c73c-4d45-a370-660eff14d910</testCaseGuid>
+</TestCaseEntity>

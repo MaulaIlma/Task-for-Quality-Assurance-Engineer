@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration with Valid Data</description>
+   <name>Web Sign Up with Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1d6feaa-9601-44ec-915f-1d4afae5dd71</testCaseGuid>
+</TestCaseEntity>

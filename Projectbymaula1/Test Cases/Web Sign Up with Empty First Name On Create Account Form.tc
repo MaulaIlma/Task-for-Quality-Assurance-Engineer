@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration with Valid Data</description>
+   <name>Web Sign Up with Empty First Name On Create Account Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>258423a2-ea9f-43bd-a0fd-dbcbc7f8c2ba</testCaseGuid>
+</TestCaseEntity>
