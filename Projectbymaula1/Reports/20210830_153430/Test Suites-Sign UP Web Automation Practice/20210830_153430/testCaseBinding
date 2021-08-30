@@ -1,0 +1,11 @@
+{"testCaseName":"Test Cases/Web Sign Up with Valid Data","testCaseId":"Test Cases/Web Sign Up with Valid Data"}
+{"testCaseName":"Test Cases/Web Sign UP with Registered Email","testCaseId":"Test Cases/Web Sign UP with Registered Email"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Email","testCaseId":"Test Cases/Web Sign Up with Empty Email"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty First Name On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty First Name On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Last Name On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty Last Name On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Password On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty Password On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty City On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty City On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Not Select State On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Not Select State On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Address On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty Address On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Poscode On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty Poscode On Create Account Form"}
+{"testCaseName":"Test Cases/Web Sign Up with Empty Mobile Phone On Create Account Form","testCaseId":"Test Cases/Web Sign Up with Empty Mobile Phone On Create Account Form"}

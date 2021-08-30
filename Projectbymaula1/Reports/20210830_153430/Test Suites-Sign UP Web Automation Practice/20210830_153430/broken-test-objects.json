@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Login - My Store/input_Mrs_id_gender",
+      "brokenLocator": "//input[@id\u003d\u0027id_gender2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027id_gender2\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20210830_153430/Test Suites-Sign UP Web Automation Practice/20210830_153430/Object Repository/Page_Login - My Store/input_Mrs_id_gender_attributes.png"
+    }
+  ]
+}

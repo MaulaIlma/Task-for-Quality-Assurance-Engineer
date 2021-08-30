@@ -1,0 +1,56 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suites-Sign In Web Automation Practice,Chrome 92.0.4515.159,,,2021-08-30 13:37:04,2021-08-30 13:42:40,5m - 36.513s,PASSED
+,,,,,,,
+Test Cases/Web Sign In with Valid Data,Chrome 92.0.4515.159,,,2021-08-30 13:37:04,2021-08-30 13:38:27,1m - 22.700s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-08-30 13:37:05,2021-08-30 13:37:12,6.756s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 92.0.4515.159,,,2021-08-30 13:37:12,2021-08-30 13:37:50,37.718s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:37:50,2021-08-30 13:38:05,14.873s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email""), ""testkata@mailsac.com"")",Chrome 92.0.4515.159,,,2021-08-30 13:38:05,2021-08-30 13:38:07,2.119s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login - My Store/input_Password_passwd""), ""RigbBhfdqOBGNlJIWM1ClA=="")",Chrome 92.0.4515.159,,,2021-08-30 13:38:07,2021-08-30 13:38:09,1.931s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:38:09,2021-08-30 13:38:22,13.545s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-08-30 13:38:22,2021-08-30 13:38:25,3.089s,PASSED
+"verifyElementPresent(findTestObject(""Page_My account - My Store/p_Welcome to your account. Here you can man_a77dad""), 0)",Chrome 92.0.4515.159,,,2021-08-30 13:38:25,2021-08-30 13:38:26,0.535s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-08-30 13:38:26,2021-08-30 13:38:27,1.226s,PASSED
+,,,,,,,
+Test Cases/Web Sign In with Incorrect Password,Chrome 92.0.4515.159,,,2021-08-30 13:38:27,2021-08-30 13:39:42,1m - 15.227s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-08-30 13:38:28,2021-08-30 13:38:30,2.022s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 92.0.4515.159,,,2021-08-30 13:38:30,2021-08-30 13:39:02,31.870s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:39:02,2021-08-30 13:39:31,29.283s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email""), ""maubuattest157@gmail.com"")",Chrome 92.0.4515.159,,,2021-08-30 13:39:31,2021-08-30 13:39:32,1.000s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login - My Store/input_Password_passwd""), ""BnBcLDdD/kw="")",Chrome 92.0.4515.159,,,2021-08-30 13:39:32,2021-08-30 13:39:33,0.767s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:39:33,2021-08-30 13:39:38,4.977s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-08-30 13:39:38,2021-08-30 13:39:41,3.018s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login - My Store/Message error incorrect password""), 0)",Chrome 92.0.4515.159,,,2021-08-30 13:39:41,2021-08-30 13:39:42,0.432s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-08-30 13:39:42,2021-08-30 13:39:42,0.814s,PASSED
+,,,,,,,
+Test Cases/Web Sign In with Empty Password,Chrome 92.0.4515.159,,,2021-08-30 13:39:42,2021-08-30 13:40:53,1m - 10.253s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-08-30 13:39:43,2021-08-30 13:39:45,1.775s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 92.0.4515.159,,,2021-08-30 13:39:45,2021-08-30 13:40:06,20.860s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:40:06,2021-08-30 13:40:16,10.476s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email""), ""maubuattest157@gmail.com"")",Chrome 92.0.4515.159,,,2021-08-30 13:40:16,2021-08-30 13:40:41,24.902s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:40:41,2021-08-30 13:40:48,6.997s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-08-30 13:40:48,2021-08-30 13:40:51,3.004s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login - My Store/Message error Password is required""), 0)",Chrome 92.0.4515.159,,,2021-08-30 13:40:51,2021-08-30 13:40:52,0.670s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-08-30 13:40:52,2021-08-30 13:40:53,0.903s,PASSED
+,,,,,,,
+Test Cases/Web Sign In with Empty Email,Chrome 92.0.4515.159,,,2021-08-30 13:40:53,2021-08-30 13:41:45,52.653s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-08-30 13:40:53,2021-08-30 13:40:55,1.641s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 92.0.4515.159,,,2021-08-30 13:40:55,2021-08-30 13:41:16,20.775s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:41:16,2021-08-30 13:41:27,11.682s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email""), """")",Chrome 92.0.4515.159,,,2021-08-30 13:41:27,2021-08-30 13:41:31,3.511s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login - My Store/input_Password_passwd""), ""RigbBhfdqOBGNlJIWM1ClA=="")",Chrome 92.0.4515.159,,,2021-08-30 13:41:31,2021-08-30 13:41:32,0.690s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:41:32,2021-08-30 13:41:41,9.211s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-08-30 13:41:41,2021-08-30 13:41:44,3.005s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login - My Store/Mesage error An email address required""), 0)",Chrome 92.0.4515.159,,,2021-08-30 13:41:44,2021-08-30 13:41:44,0.475s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-08-30 13:41:44,2021-08-30 13:41:45,1.215s,PASSED
+,,,,,,,
+Test Cases/Web Sign In with Email Not Registered,Chrome 92.0.4515.159,,,2021-08-30 13:41:45,2021-08-30 13:42:40,54.626s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.159,,,2021-08-30 13:41:46,2021-08-30 13:41:48,1.766s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 92.0.4515.159,,,2021-08-30 13:41:48,2021-08-30 13:42:07,19.610s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:42:07,2021-08-30 13:42:20,12.603s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email""), ""testkata123@mailsac.com"")",Chrome 92.0.4515.159,,,2021-08-30 13:42:20,2021-08-30 13:42:24,3.493s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login - My Store/input_Password_passwd""), ""RigbBhfdqOBGNlJIWM1ClA=="")",Chrome 92.0.4515.159,,,2021-08-30 13:42:24,2021-08-30 13:42:24,0.591s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Sign in""))",Chrome 92.0.4515.159,,,2021-08-30 13:42:24,2021-08-30 13:42:36,11.681s,PASSED
+delay(3),Chrome 92.0.4515.159,,,2021-08-30 13:42:36,2021-08-30 13:42:39,3.007s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login - My Store/Message Error Authentication failed""), 0)",Chrome 92.0.4515.159,,,2021-08-30 13:42:39,2021-08-30 13:42:39,0.452s,PASSED
+closeBrowser(),Chrome 92.0.4515.159,,,2021-08-30 13:42:39,2021-08-30 13:42:40,0.869s,PASSED
