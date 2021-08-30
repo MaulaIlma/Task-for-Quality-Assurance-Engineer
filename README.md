@@ -1,6 +1,6 @@
 # Task-for-Quality-Assurance-Engineer
 
-***Test Automation Using Katalon**
+**Test Automation Using Katalon**
 In the Projectbymaula1 folder there is a automated test for automation practice website (http://automationpractice.com/index.php)
 1. Website Sign In
 2. Website Sign Up
@@ -8,29 +8,29 @@ You can open in Katalon Studio for Test Case, Test Suites, Script, Object Reposi
 
 In test case folder there are positive test and negative test
 
-*Positive Test for Sign Up*
->Web Sign Up with Valid Data
+**Positive Test for Sign Up**
+Web Sign Up with Valid Data
 
-*Negative Test for Sign Up*
->Web Sign UP with Registered Email
->Web Sign Up with Empty Email
->Web Sign Up with Not Select State On Create Account Form
->Web Sign Up with Empty Poscode On Create Account Form
->Web Sign Up with Empty Password On Create Account Form
->Web Sign Up with Empty Mobile Phone On Create Account Form
->Web Sign Up with Empty Last Name On Create Account Form
->Web Sign Up with Empty First Name On Create Account Form
->Web Sign Up with Empty Address On Create Account Form
->Web Sign Up with Empty City On Create Account Form
+**Negative Test for Sign Up**
+Web Sign UP with Registered Email
+Web Sign Up with Empty Email
+Web Sign Up with Not Select State On Create Account Form
+Web Sign Up with Empty Poscode On Create Account Form
+Web Sign Up with Empty Password On Create Account Form
+Web Sign Up with Empty Mobile Phone On Create Account Form
+Web Sign Up with Empty Last Name On Create Account Form
+Web Sign Up with Empty First Name On Create Account Form
+Web Sign Up with Empty Address On Create Account Form
+Web Sign Up with Empty City On Create Account Form
 
-*Positive Test for Sign In*
->Web Sign In with Valid Data
+***Positive Test for Sign In**
+Web Sign In with Valid Data
 
-*Negative Test For Sign*
->Web Sign In with Incorrect Password
->Web Sign In with Empty Email
->Web Sign In with Email Not Registered
->Web Sign In with Empty Password
+**Negative Test For Sign**
+Web Sign In with Incorrect Password
+Web Sign In with Empty Email
+Web Sign In with Email Not Registered
+Web Sign In with Empty Password
 
 you can running each test case in Katalon Studio
 
