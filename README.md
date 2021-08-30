@@ -35,25 +35,26 @@ In test case folder there are positive test and negative test
 you can running each test case in Katalon Studio
 
 
-In folder Test Suites there are Test Suites-Sign In Web Automation Practice and Test Suites-Sign UP Web Automation Practice
-You can run the test suites for test all tests at once in the sign up test case (Test Suites-Sign UP Web Automation Practice) and You can run the test suites for test all tests at once in the test Sign In (Test Suites-Sign In Web Automation Practice)
+>In folder Test Suites there are Test Suites-Sign 
+>In Web Automation Practice and Test Suites-Sign UP Web Automation Practice
+>You can run the test suites for test all tests at once in the sign up test case (Test Suites-Sign UP Web Automation Practice) and You can run the test suites for test all tests at once in the test Sign In (Test Suites-Sign In Web Automation Practice)
 
-In the object repository folder there is an object object that is used when testing
+>In the object repository folder there is an object object that is used when testing
 
-In the Script folder there is there is a collection of automated scripts for each test case
+>In the Script folder there is there is a collection of automated scripts for each test case
 
-In the reports folder there is a report result when doing testing
+>In the reports folder there is a report result when doing testing
 
-In the API test folder there is API Testing using this website (https://reqres.in/) 
+>In the API test folder there is API Testing using this website (https://reqres.in/) 
 1. create user
 2. get user
 3. update user
 4. delete user
 
-You can run in Katalon Studio
+>You can run in Katalon Studio
 
-In Test Case folder there is test case for verify test
-In object repository there are object for create user, get user,update user, delete user
-In script folder there is script for verify test
-In test suites folder there is Test Suite API for testing all test case
-In report folder there is report result  when doin testing API Test
+>In Test Case folder there is test case for verify test
+>In object repository there are object for create user, get user,update user, delete user
+>In script folder there is script for verify test
+>In test suites folder there is Test Suite API for testing all test case
+>In report folder there is report result  when doin testing API Test
